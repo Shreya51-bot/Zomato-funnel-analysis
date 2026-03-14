@@ -304,5 +304,18 @@ This project demonstrates how product teams use data to:
 
 \* make data-driven product decisions
 
+## How to Run This Project
+
+1. Clone the repository
+git clone https://github.com/Shreya51-bot/Zomato-funnel-analysis.git
+
+2. Install dependencies
+pip install -r requirements.txt
+
+3. Open the notebook
+notebooks/funnel_analysis.ipynb
+
+4. Run the cells to reproduce the analysis.
+
 
 
