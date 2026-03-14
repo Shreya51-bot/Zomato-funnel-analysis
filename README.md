@@ -1,6 +1,9 @@
 \# Zomato Funnel \& Retention Analysis
 
 
+![Funnel Analysis](visuals/funnel_chart.png)
+
+
 
 \## Project Overview
 
