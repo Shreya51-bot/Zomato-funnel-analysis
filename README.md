@@ -127,6 +127,20 @@ The user funnel tracks how users progress through each stage of ordering food.
 | Order Complete  | \~600  | \~12%            |
 
 
+## Key Product Metrics
+
+Conversion Rate (App Open → Order Complete): ~12%
+
+Largest Drop-Off Stage:
+Restaurant View → Add to Cart
+
+Estimated Drop-Off:
+~40% users leave before adding items to cart.
+
+Retention Insights:
+Day 1 Retention: ~60%
+Day 7 Retention: ~40%
+Day 30 Retention: ~25%
 
 \### Funnel Visualization
 
