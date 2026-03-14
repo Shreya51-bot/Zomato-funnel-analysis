@@ -317,5 +317,56 @@ notebooks/funnel_analysis.ipynb
 
 4. Run the cells to reproduce the analysis.
 
+## Product Case Study
+
+### Problem
+
+Many users open the food delivery app and browse restaurants, but only a small percentage complete an order.
+
+The objective was to analyze the user journey and identify where users drop off in the ordering process.
+
+### Approach
+
+A simulated dataset of 5000 users was created to represent the food ordering journey:
+
+App Open → Restaurant View → Add to Cart → Checkout → Order Complete
+
+Using Python and Pandas, funnel metrics and retention rates were calculated to understand user behavior.
+
+### Key Findings
+
+* Approximately **80% of users view restaurants after opening the app**
+* Only **~60% of users add items to the cart**
+* Final **order conversion is around ~12%**
+
+The **largest drop-off occurs between Restaurant View and Add to Cart**.
+
+### Interpretation
+
+This indicates users are browsing restaurants but hesitating to place orders.
+Possible causes include:
+
+* High item prices
+* Delivery charges
+* Lack of clear recommendations
+* Decision fatigue when choosing dishes
+
+### Product Recommendations
+
+To reduce drop-off and increase order conversion, the following product improvements are suggested:
+
+* Highlight **Most Ordered dishes**
+* Show **Budget-friendly meal recommendations**
+* Display **discount badges and offers**
+* Improve menu UI with **high-quality food images**
+* Add **Quick Add buttons** for popular items
+
+### Business Impact
+
+If the drop-off between Restaurant View and Add to Cart is reduced by **10–15%**, it could significantly increase:
+
+* Total orders
+* Revenue per user
+* Overall engagement on the platform
 
 
