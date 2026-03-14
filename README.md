@@ -1,5 +1,7 @@
 \# Zomato Funnel \& Retention Analysis
 
+Product Analytics | Funnel Analysis | Retention Analysis | Python | Pandas | Data Visualization
+
 
 ![Funnel Analysis](visuals/funnel_chart.png)
 
@@ -28,6 +30,19 @@ The analysis simulates a real product analytics workflow including:
 \* Retention analysis
 
 \* Product insights and recommendations
+
+## Key Takeaways
+
+• Around **80% of users browse restaurants after opening the app**
+
+• Only **~60% add items to the cart**
+
+• Final **order conversion rate is ~12%**
+
+• The biggest drop occurs at  
+**Restaurant View → Add to Cart**
+
+This stage represents the **largest opportunity to improve conversions**.
 
 
 
